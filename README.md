@@ -2,8 +2,7 @@
 
 A Stardew Valley mod for completionists who want to know what's out there â€” without being told what it is.
 
-> **Status: design stage.** Nothing is implemented yet â€” this repository is currently
-> the design for the mod, not the mod. There is nothing to download.
+> **Status: design stage.**
 
 ## What It Does
 
@@ -28,7 +27,7 @@ Planned: SMAPI and Harmony for method patching. No custom assets or pixel art â€
 - Stardew Valley 1.6+
 - SMAPI 4.0+
 
-## Installation (once released)
+## Installation
 
 1. Install [SMAPI](https://smapi.io/)
 2. Download Heart Atlas and place it in your `Mods` folder
@@ -39,3 +38,9 @@ Planned: SMAPI and Harmony for method patching. No custom assets or pixel art â€
 Open to suggestions and feedback on the design. This is a learning project, so once there's code, PRs with explanations are especially welcome.
 
 Planned work is tracked in [issues](https://github.com/yalongwastaken/heart-atlas/issues).
+
+## Author
+
+**Anthony Yalong**
+- Email: yalong.anthony123@gmail.com
+- GitHub: [@yalongwastaken](https://github.com/yalongwastaken)
