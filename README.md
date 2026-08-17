@@ -2,6 +2,9 @@
 
 A Stardew Valley mod for completionists who want to know what's out there — without being told what it is.
 
+> **Status: design stage.** Nothing is implemented yet — this repository is currently
+> the design for the mod, not the mod. There is nothing to download.
+
 ## What It Does
 
 Stardew Valley has heart events with every NPC, but the game gives you no indication they exist until you accidentally trigger one. Heart Atlas fixes that by surfacing awareness of these events directly in the social tab — no spoilers, just the knowledge that something is waiting.
@@ -16,33 +19,23 @@ Completionists want to know what exists, not be surprised by it. The frustration
 
 Heart Atlas gives you the map. You still have to make the journey.
 
-## Features
+## Tech
 
-- [ ] Notification on heart event unlock
-- [ ] Social tab indicators for locked, unlocked, and seen events
-- [ ] No spoilers — event content is never revealed
-- [ ] Works with all marriage candidates and non-marriage NPCs
-- [ ] Multiplayer compatible (planned)
-
-## Installation
-
-1. Install [SMAPI](https://smapi.io/)
-2. Download Heart Atlas and place in your `Mods` folder
-3. Launch Stardew Valley through SMAPI
+Planned: SMAPI and Harmony for method patching. No custom assets or pixel art — all UI will use Stardew's native components.
 
 ## Requirements
 
 - Stardew Valley 1.6+
 - SMAPI 4.0+
 
-## Tech
+## Installation (once released)
 
-Built with SMAPI and Harmony for method patching. No custom assets or pixel art — all UI uses Stardew's native components.
-
-## Status
-
-Early development. Learning project.
+1. Install [SMAPI](https://smapi.io/)
+2. Download Heart Atlas and place it in your `Mods` folder
+3. Launch Stardew Valley through SMAPI
 
 ## Contributing
 
-Open to suggestions, bug reports, and feedback. This is a learning project so PRs with explanations are especially welcome.
+Open to suggestions and feedback on the design. This is a learning project, so once there's code, PRs with explanations are especially welcome.
+
+Planned work is tracked in [issues](https://github.com/yalongwastaken/heart-atlas/issues).
